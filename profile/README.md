@@ -2,7 +2,7 @@
 
 **📓 SQL/Relational Database**
 
-- [SQL-Relational-Database](https://github.com/Immersive-DataEngineer-Resource/SQL-Relational-Database.git)
+- [SQL-Relational-Database](https://github.com/ALTA-DE4-Farhan-Riyandi-22Juni2000/SQL-Relational-Database)
 
 **📔 Basic Programming**
 
