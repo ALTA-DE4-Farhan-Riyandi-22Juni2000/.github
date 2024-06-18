@@ -24,20 +24,20 @@
 
 **📙 RESTful API**
 
-- [Intro-To-REST](https://github.com/Immersive-DataEngineer-Resource/Intro-To-REST)
+- [Intro-To-REST](https://github.com/ALTA-DE4-Farhan-Riyandi-22Juni2000/Intro-To-REST)
 
 **📙 Docker**
 
-- [Docker](https://github.com/Immersive-DataEngineer-Resource/Docker)
+- [Docker](https://github.com/ALTA-DE4-Farhan-Riyandi-22Juni2000/Docker)
 
 **📙 Fundamental DE**
 
-- [Fundamental-DE](https://github.com/Immersive-DataEngineer-Resource/fundamental-de)
+- [Fundamental-DE](https://github.com/ALTA-DE4-Farhan-Riyandi-22Juni2000/fundamental-de)
 
 **📙 Datawarehouse**
 
-- [Datawarehouse](https://github.com/Immersive-DataEngineer-Resource/data-warehouse-submission)
+- [Datawarehouse](https://github.com/ALTA-DE4-Farhan-Riyandi-22Juni2000/data-warehouse-submission)
 
 **📙 Data Ingestion**
 
-- [Data Ingestion](https://github.com/Immersive-DataEngineer-Resource/ingestion-data/)
+- [Data Ingestion](https://github.com/ALTA-DE4-Farhan-Riyandi-22Juni2000/ingestion-data)
