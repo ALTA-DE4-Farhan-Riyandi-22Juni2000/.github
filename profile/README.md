@@ -16,7 +16,7 @@
 **📘 Algorithm and Data Structure**
 
 - [Algo-DS-Part1](https://github.com/ALTA-DE4-Farhan-Riyandi-22Juni2000/Algo-DS-Part1)
-- [Algo-DS-Part2](https://github.com/Immersive-DataEngineer-Resource/Algo-DS-Part2)
+- [Algo-DS-Part2](https://github.com/ALTA-DE4-Farhan-Riyandi-22Juni2000/Algo-DS-Part2)
 
 **📗 Object Oriented Programming**
 
