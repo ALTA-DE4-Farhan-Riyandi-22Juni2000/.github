@@ -20,7 +20,7 @@
 
 **📗 Object Oriented Programming**
 
-- [Object-Oriented-Programming](https://github.com/Immersive-DataEngineer-Resource/Object-Oriented-Programming)
+- [Object-Oriented-Programming](https://github.com/ALTA-DE4-Farhan-Riyandi-22Juni2000/Object-Oriented-Programming)
 
 **📙 RESTful API**
 
