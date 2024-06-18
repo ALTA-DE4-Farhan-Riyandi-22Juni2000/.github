@@ -10,7 +10,7 @@
 - [Basic-Programming-Part2](https://github.com/ALTA-DE4-Farhan-Riyandi-22Juni2000/Basic-Programming-Part2)
 - [Basic-Programming-Part3](https://github.com/ALTA-DE4-Farhan-Riyandi-22Juni2000/Basic-Programming-Part3)
 - [Basic-Programming-Part4](https://github.com/ALTA-DE4-Farhan-Riyandi-22Juni2000/Basic-Programming-Part4)
-- [Basic-Programming-Part5](https://github.com/Immersive-DataEngineer-Resource/Basic-Programming-Part5)
+- [Basic-Programming-Part5](https://github.com/ALTA-DE4-Farhan-Riyandi-22Juni2000/Basic-Programming-Part5)
 - [Basic-Programming-Part6](https://github.com/Immersive-DataEngineer-Resource/Basic-Programming-Part6)
 
 **📘 Algorithm and Data Structure**
